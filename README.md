@@ -227,3 +227,9 @@ Open another terminal:
 
 cd backend
 npm install
+5. Start Backend
+npm start
+
+The backend will run on the configured port, for example:
+
+http://localhost:5000
