@@ -168,3 +168,19 @@ Headache
 Fatigue
 Body Pain
 Nausea
+
+Model Output
+
+The system predicts possible conditions based on the symptoms.
+
+Example:
+
+Input:
+Fever, Cough, Fatigue
+
+Possible Condition:
+Flu
+
+Recommendation:
+Consider consulting a healthcare professional if symptoms
+persist or become severe.
