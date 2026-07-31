@@ -220,3 +220,10 @@ npm run dev
 The frontend will usually run at:
 
 http://localhost:5173
+
+4. Install Backend Dependencies
+
+Open another terminal:
+
+cd backend
+npm install
