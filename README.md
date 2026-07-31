@@ -195,3 +195,5 @@ Input validation
 Secure database connections
 Password hashing if authentication is implemented
 Avoid storing unnecessary personal health information
+
+Sensitive configuration should be stored in a .env file.
