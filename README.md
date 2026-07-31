@@ -136,3 +136,35 @@ healthcare-symptom-checker/
 └── .gitignore
 
 Modify the folder structure above according to your actual project folders before publishing.
+
+📊 Machine Learning Workflow
+
+The Machine Learning component follows these steps:
+
+Healthcare Dataset
+       ↓
+Data Cleaning
+       ↓
+Data Preprocessing
+       ↓
+Feature Selection
+       ↓
+Model Training
+       ↓
+Model Evaluation
+       ↓
+Trained Model
+       ↓
+User Symptoms
+       ↓
+Prediction
+Model Input
+
+The model receives symptoms such as:
+
+Fever
+Cough
+Headache
+Fatigue
+Body Pain
+Nausea
