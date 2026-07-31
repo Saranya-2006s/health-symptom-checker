@@ -73,3 +73,14 @@ The Machine Learning model analyzes the symptoms.
 The model predicts possible health conditions.
 The result is returned to the frontend.
 The application displays the prediction and relevant information.
+
+
+🛠️ Technology Stack
+Frontend
+React.js
+TypeScript
+Vite
+Tailwind CSS
+HTML5
+CSS3
+JavaScript
