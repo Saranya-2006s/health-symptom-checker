@@ -210,3 +210,6 @@ Never commit .env files or API keys to GitHub.
 1. Clone the Repository
 git clone https://github.com/your-username/healthcare-symptom-checker.git
 cd healthcare-symptom-checker
+2. Install Frontend Dependencies
+cd frontend
+npm install
