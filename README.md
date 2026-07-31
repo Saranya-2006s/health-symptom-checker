@@ -101,3 +101,38 @@ Git
 GitHub
 Visual Studio Code
 Postman
+
+
+📂 Project Structure
+healthcare-symptom-checker/
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── App.tsx
+│   │   └── main.tsx
+│   │
+│   ├── public/
+│   ├── package.json
+│   └── vite.config.ts
+│
+├── backend/
+│   ├── routes/
+│   ├── controllers/
+│   ├── models/
+│   ├── middleware/
+│   ├── server.js
+│   └── package.json
+│
+├── ml-model/
+│   ├── dataset/
+│   ├── train.py
+│   ├── predict.py
+│   └── model.pkl
+│
+├── README.md
+└── .gitignore
+
+  
