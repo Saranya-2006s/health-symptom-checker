@@ -197,3 +197,11 @@ Password hashing if authentication is implemented
 Avoid storing unnecessary personal health information
 
 Sensitive configuration should be stored in a .env file.
+
+Example:
+
+MONGODB_URI=your_mongodb_connection_string
+PORT=5000
+API_KEY=your_api_key
+
+Never commit .env files or API keys to GitHub.
