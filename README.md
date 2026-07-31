@@ -22,3 +22,10 @@ Receive basic health recommendations
 Simple and user-friendly interface
 Fast symptom analysis
 Responsive web interface
+
+🤖 AI/ML Features
+Symptom-based disease prediction
+Machine Learning-based classification
+Processing of multiple symptoms
+Prediction of possible conditions based on trained data
+Intelligent analysis of user input
