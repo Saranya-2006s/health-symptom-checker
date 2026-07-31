@@ -23,6 +23,16 @@ Simple and user-friendly interface
 Fast symptom analysis
 Responsive web interface
 
+📊 Dashboard
+
+The application can provide:
+
+Entered symptoms
+Predicted condition
+Prediction confidence
+Recommended next steps
+Health-related information
+
 🤖 AI/ML Features
 Symptom-based disease prediction
 Machine Learning-based classification
