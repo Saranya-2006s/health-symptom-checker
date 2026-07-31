@@ -11,3 +11,14 @@ The Healthcare Symptom Checker is an intelligent application designed to provide
 Users can enter one or more symptoms, and the system processes the information to identify possible health conditions associated with those symptoms.
 
 The project aims to demonstrate how Artificial Intelligence, Machine Learning, and Web Technologies can be combined to build an interactive healthcare-support application.
+
+🚀 Features
+👤 User Features
+Enter symptoms manually
+Select multiple symptoms
+Get possible health conditions
+View symptom-related information
+Receive basic health recommendations
+Simple and user-friendly interface
+Fast symptom analysis
+Responsive web interface
