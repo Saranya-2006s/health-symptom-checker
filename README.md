@@ -39,3 +39,26 @@ Machine Learning-based classification
 Processing of multiple symptoms
 Prediction of possible conditions based on trained data
 Intelligent analysis of user input
+
+
+🧠 How It Works
+
+The basic workflow of the application is:
+
+User
+  ↓
+Enter Symptoms
+  ↓
+Frontend
+  ↓
+Backend API
+  ↓
+Symptom Processing
+  ↓
+Machine Learning Model
+  ↓
+Disease/Condition Prediction
+  ↓
+Health Information & Recommendation
+  ↓
+User
