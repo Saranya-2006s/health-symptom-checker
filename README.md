@@ -135,4 +135,4 @@ healthcare-symptom-checker/
 ├── README.md
 └── .gitignore
 
-  
+Modify the folder structure above according to your actual project folders before publishing.
