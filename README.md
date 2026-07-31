@@ -205,3 +205,8 @@ PORT=5000
 API_KEY=your_api_key
 
 Never commit .env files or API keys to GitHub.
+
+⚙️ Installation & Setup
+1. Clone the Repository
+git clone https://github.com/your-username/healthcare-symptom-checker.git
+cd healthcare-symptom-checker
