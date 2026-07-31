@@ -233,3 +233,16 @@ npm start
 The backend will run on the configured port, for example:
 
 http://localhost:5000
+6. Setup Machine Learning Environment
+
+Navigate to the ML directory:
+
+cd ml-model
+
+Install the required Python packages:
+
+pip install pandas numpy scikit-learn flask
+
+Run the ML service if your project uses a Flask API:
+
+python app.py
