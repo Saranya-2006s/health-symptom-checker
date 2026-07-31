@@ -62,3 +62,14 @@ Disease/Condition Prediction
 Health Information & Recommendation
   ↓
 User
+
+
+Step-by-Step Process
+The user opens the Healthcare Symptom Checker.
+The user enters or selects their symptoms.
+The frontend sends the symptoms to the backend.
+The backend preprocesses the input.
+The Machine Learning model analyzes the symptoms.
+The model predicts possible health conditions.
+The result is returned to the frontend.
+The application displays the prediction and relevant information.
