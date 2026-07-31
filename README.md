@@ -184,3 +184,14 @@ Flu
 Recommendation:
 Consider consulting a healthcare professional if symptoms
 persist or become severe.
+
+🔐 Security Considerations
+
+The application should follow basic security practices such as:
+
+Secure API endpoints
+Environment variables for sensitive credentials
+Input validation
+Secure database connections
+Password hashing if authentication is implemented
+Avoid storing unnecessary personal health information
