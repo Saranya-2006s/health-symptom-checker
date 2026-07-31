@@ -213,3 +213,10 @@ cd healthcare-symptom-checker
 2. Install Frontend Dependencies
 cd frontend
 npm install
+
+3. Start Frontend
+npm run dev
+
+The frontend will usually run at:
+
+http://localhost:5173
