@@ -88,3 +88,9 @@ JavaScript
 Node.js
 Express.js
 REST API
+......Machine Learning
+Python
+Pandas
+NumPy
+Scikit-learn
+Machine Learning Classification Algorithms
