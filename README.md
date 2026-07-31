@@ -76,7 +76,7 @@ The application displays the prediction and relevant information.
 
 
 🛠️ Technology Stack
-Frontend
+.....Frontend
 React.js
 TypeScript
 Vite
@@ -84,3 +84,7 @@ Tailwind CSS
 HTML5
 CSS3
 JavaScript
+.....Backend
+Node.js
+Express.js
+REST API
